@@ -12,3 +12,6 @@ It's unfair to compare them directly on clock speed and cores/threads since the 
 
 ## M1 Max Machine
 <img width="1512" alt="Screen Shot 2021-11-08 at 12 25 40 AM" src="https://user-images.githubusercontent.com/1313339/140698806-d8d86ab3-c3c1-4136-8b45-6f51f51a65fe.png">
+
+# Serenity (M1 Max) wins
+![1b5fb3faeb3b13d7b8d6c3d7221e8328](https://user-images.githubusercontent.com/1313339/140705065-88394351-b8ff-4335-86ec-302b5d13af4f.jpg)
