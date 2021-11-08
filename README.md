@@ -2,8 +2,8 @@
 Just a naive test to compare ruby speed between the new Apple M1 Max processor vs the old i7 processor it's replacing.
 
 Both machines are essentially the same "high end smallest MBP".
-  - A 2020 13" MBP with a 2.3GHz Intel i7 
-  - A 2021 14" MBP with a 2.4GHz Apple M1 Max.
+  - A 2020 13" MBP with a 2.3GHz Intel i7, max boost up to 4.1GHz. 8 cores, 16 threads.
+  - A 2021 14" MBP with a 2.4GHz Apple M1 Max. 10 cores, 10 threads.
 
 It's unfair to compare them directly on clock speed and cores/threads since the M1 chips have 2 energy efficient cores along with 8 high performance cores while the i7 has all 8 cores being high performance. But the results speak for themselves.
 
